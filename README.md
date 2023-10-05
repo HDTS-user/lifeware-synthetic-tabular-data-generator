@@ -1,2 +1,7 @@
-# lifeware-synthetic-tabular-data-generator
-A repository for the sample files for Lifeware Synthetic Tabular Data generator on AWS marketplace 
+# lifewareAI: synthetic tabular data generator
+This solution efficiently creates high-quality tabular synthetic data. It empowers businesses and researchers to overcome data scarcity, privacy, and compliance challenges by generating realistic and representative synthetic datasets. It maintains the statistical properties, correlations, and patterns of the original data, ensuring the output remains useful and relevant for your use case. The synthetic data generator supports a wide range of data types, including numerical, categorical, and datetime variables, allowing you to generate synthetic data tailored to your specific needs.
+
+# Highlights
+1. The LifewareAI Synthetic Data Generataor uses generative adversarial networks to create synthetic data that accurately mimics the statistical properties of real data without revealing sensitive information, enabling compliance with GDPR, HIPAA, and other privacy regulations. Its efficient implementation ensures rapid generation of large-scale synthetic data, helping users save time and resources.
+2. This solution can be used by businesses, data science teams and software testing teams in various industries like healthcare, finance, retail, HR & workforce insurance and smart cities etc to complement their existing data scources in a reliable and privacy preserving manner.
+3. Need more machine learning, deep learning, NLP and Quantum Computing solutions. Reach out to us at Harman DTS.
