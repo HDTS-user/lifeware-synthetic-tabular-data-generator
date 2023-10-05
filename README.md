@@ -1,4 +1,4 @@
-# lifewareAI: synthetic tabular data generator
+# LifewareAI: Synthetic tabular data generator
 This solution efficiently creates high-quality tabular synthetic data. It empowers businesses and researchers to overcome data scarcity, privacy, and compliance challenges by generating realistic and representative synthetic datasets. It maintains the statistical properties, correlations, and patterns of the original data, ensuring the output remains useful and relevant for your use case. The synthetic data generator supports a wide range of data types, including numerical, categorical, and datetime variables, allowing you to generate synthetic data tailored to your specific needs.
 
 # Highlights
